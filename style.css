@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(39, 168, 63, 0.872);
+}
+.first{
+    margin-top: 100px;
+    margin-left: 400px;
+    border: solid 1px white;
+    background-color: white;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 10px;
+}
+.add{
+    background-color: rgb(7, 150, 206);
+    color: white;
+    padding: 5px;
+    width: 50px;
+    border-radius: 8px;
+    border: solid 0px;
+}
+button:hover{
+   cursor: pointer;
+   
+}
+li:active{
+    text-decoration: line-through;
+}
+.Clear{
+    margin-left: 10px;
+    background-color: rgb(4, 155, 249);
+    color: white;
+}
+.save{
+    margin-left: 10px;
+    background-color: rgb(62, 228, 11);
+    color: white;
+}
+.Empty{
+    margin-left: 10px;
+    color: white;
+    background-color: brown;
+}
